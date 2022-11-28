@@ -1,4 +1,4 @@
-// program to implement FCFS problem
+// program to implement FCFS problem on c
 #include <conio.h>
 #include <stdio.h>
 void main()
