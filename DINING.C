@@ -1,4 +1,4 @@
-// program to implement dining philospher problem
+// program to implement classical problem on currency-dining philospher problem 
 #include <conio.h>
 #include <stdio.h>
 void wait(int);

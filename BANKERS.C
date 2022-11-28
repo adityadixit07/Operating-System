@@ -6,7 +6,7 @@ char finish[10];
 void main()
 {
     int flag = 0, i, j, k, n, p1, req1, req2, req3;
-    clrscr();
+    // clrscr();
     printf("\nenter the number of process:\n");
     scanf("%d", &n);
     for (i = 0; i < n; i++)

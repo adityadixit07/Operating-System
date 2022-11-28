@@ -8,7 +8,7 @@ int a[10], i = 0;
 void main()
 {
 	int n;
-	clrscr();
+	// clrscr();
 	do
 	{
 		printf("\n\nMAIN MENU\n1.CONSUMER\n2.PRODUCER\n3.EXIT\nentre ur choice:");

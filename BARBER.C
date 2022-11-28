@@ -1,4 +1,4 @@
-// program to implement sleeping barber problem
+// program to implement sleeping barber problem on c
 #include <conio.h>
 #include <stdio.h>
 
