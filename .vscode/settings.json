@@ -40,6 +40,7 @@
     "DINING.C": "cpp",
     "PRODUCER.C": "cpp",
     "PRODUCER VALUE.C": "cpp",
-    "BANKERS.C": "cpp"
+    "BANKERS.C": "cpp",
+    "PRODUCERVALUE.C": "cpp"
   }
 }

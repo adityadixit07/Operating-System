@@ -10,7 +10,7 @@ int subfun(char[]);
 void main()
 {
 	int ch;
-	clrscr();
+	// clrscr();
 	do
 	{
 		printf("\n***********************************MAIN MENU************************************\n");
